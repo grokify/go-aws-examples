@@ -64,7 +64,7 @@ func main() {
 		req := a4b.SearchContactsInput{}
 
 		key := "DisplayName"
-		name := "John"
+		name := ""
 		filter := a4b.Filter{
 			Key:    &key,
 			Values: []*string{}}
