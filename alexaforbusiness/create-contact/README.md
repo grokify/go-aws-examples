@@ -11,7 +11,7 @@ aws_session_token = TOKEN_OPTIONAL
 region = us-east-1
 ```
 
-The role must have the `AlexaForBusinessFullAccess` IAM policy. Other IAM policies include `AlexaForBusinessDeviceSetup`, `AlexaForBusinessGatewayExecution` and `AlexaForBusinessReadOnlyAccess`
+The role must have the `AlexaForBusinessFullAccess` IAM policy. Other Alexa for Business IAM policies include `AlexaForBusinessDeviceSetup`, `AlexaForBusinessGatewayExecution` and `AlexaForBusinessReadOnlyAccess`
 
 `aws_session_token` is optional.
 
