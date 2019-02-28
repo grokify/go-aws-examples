@@ -11,6 +11,9 @@ aws_session_token = TOKEN_OPTIONAL
 region = us-east-1
 ```
 
+The role must have the `AlexaForBusinessFullAccess` permissions.
+
+
 `aws_session_token` is optional.
 
 More info here: https://docs.aws.amazon.com/sdk-for-go/api/aws/session/
