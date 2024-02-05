@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/aws/aws-sdk-go v1.50.9
-	github.com/grokify/mogo v0.62.8
+	github.com/grokify/mogo v0.63.1
 )
 
 require (
