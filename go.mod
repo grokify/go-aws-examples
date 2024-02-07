@@ -3,7 +3,7 @@ module github.com/grokify/go-aws-examples
 go 1.21
 
 require (
-	github.com/aws/aws-sdk-go v1.50.9
+	github.com/aws/aws-sdk-go v1.50.12
 	github.com/grokify/mogo v0.62.8
 )
 
