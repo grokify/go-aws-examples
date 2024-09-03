@@ -6,7 +6,7 @@ toolchain go1.22.3
 
 require (
 	github.com/aws/aws-sdk-go v1.51.25
-	github.com/grokify/mogo v0.64.9
+	github.com/grokify/mogo v0.64.10
 )
 
 require (
